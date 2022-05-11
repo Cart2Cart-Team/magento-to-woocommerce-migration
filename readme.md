@@ -1,6 +1,6 @@
 # Magento to WooCommerce
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [Magento to WooCommerce](https://www.shopping-cart-migration.com/shopping-cart-migration-options/4916-magento-to-woocommerce-migration?utm_source=github-articles&utm_medium=articles&utm_term=magento-woocommerce&utm_campaign=github.com) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Magento store. Thus, you’ll be able to move your Magento store entities, including products, orders, customers, etc. to WooCommerce in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [Magento to WooCommerce](https://www.shopping-cart-migration.com/shopping-cart-migration-options/4916-magento-to-woocommerce-migration?utm_source=github.com&utm_medium=referral&utm_term=magento-woocommerce&utm_campaign=optimized-page) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Magento store. Thus, you’ll be able to move your Magento store entities, including products, orders, customers, etc. to WooCommerce in a totally automated way.
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from Magento to WooCommerce:
 * **_Products_** (Options, Attributes, Name, SKU, Short Description, Full Description, Status, Manufacturer, Tax Class, URL, Meta Title, Meta Keywords, Meta Description, Weight, Downloadable Products, Grouped Products, Virtual Products, Product Tags, Up-sells, Cross-sells, Variants, Sale Price, Sale Price From-To Date, Base Image, Additional Images, Quantity, Manage Stock, Stock Status, Backorder, etc);
@@ -15,7 +15,7 @@ Cart2Cart will assist you in moving the following data entities from Magento to 
 * **_Multiple Languages_**;
 * **_CMS Pages_** (Title, Created Date, URL, Description, Status, Content Heading).
  
-To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/4916-magento-to-woocommerce-migration?utm_source=github-articles&utm_medium=articles&utm_term=magento-woocommerce&utm_campaign=github.com).
+To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/4916-magento-to-woocommerce-migration?utm_source=github.com&utm_medium=referral&utm_term=magento-woocommerce&utm_campaign=optimized-page).
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
 * _Clear current data on Target Store before Migration,_
@@ -32,9 +32,9 @@ Users have the ability to choose some of the extra migration options to make the
 * **Start Free Demo** to see how your Magento store will look on the WooCommerce platform. You can move a limited number of data entities just within 30 minutes.  
 * **Launch the Full migration** of your store from Magento to WooCommerce.
 
-Watch our [video tutorial](https://www.youtube.com/watch?v=PF57GaKVqdw&t=1s?utm_source=github-articles&utm_medium=articles&utm_term=magento-woocommerce&utm_campaign=github.com) to see how easy it is to automatically migrate from Magento to WooCommerce with the help of the Cart2Cart migration tool.
+Watch our [video tutorial](https://www.youtube.com/watch?v=PF57GaKVqdw&t=1s?utm_source=github.com&utm_medium=referral&utm_term=magento-woocommerce&utm_campaign=optimized-page) to see how easy it is to automatically migrate from Magento to WooCommerce with the help of the Cart2Cart migration tool.
  
-Check the detailed [guide on Magento to WooCommerce migration](https://www.shopping-cart-migration.com/carts-reviews/woocommerce/11963-how-to-migrate-magento-to-woocommerce?utm_source=github-articles&utm_medium=articles&utm_term=magento-woocommerce&utm_campaign=github.com). 
+Check the detailed [guide on Magento to WooCommerce migration](https://www.shopping-cart-migration.com/carts-reviews/woocommerce/11963-how-to-migrate-magento-to-woocommerce?utm_source=github.com&utm_medium=referral&utm_term=magento-woocommerce&utm_campaign=optimized-page). 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
 * **No store’s downtime.** Your Magento store will remain active during the replatforming process.
@@ -42,4 +42,4 @@ Check the detailed [guide on Magento to WooCommerce migration](https://www.shopp
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to WooCommerce and the additional options you select.   
 * **Free demo available.** Move a limited number of data from Magento to WooCommerce just within 30 minutes. No risk involved, no credit card required. 
-* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/45-woocommerce?utm_source=github-articles&utm_medium=articles&utm_term=magento-woocommerce&utm_campaign=github.com)** that provides customers with the answers to the most common questions concerning WooCommerce migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/45-woocommerce?utm_source=github.com&utm_medium=referral&utm_term=magento-woocommerce&utm_campaign=optimized-page)** that provides customers with the answers to the most common questions concerning WooCommerce migration.
